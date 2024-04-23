@@ -1,2 +1,3 @@
 # USER_MANAGEMENT_NODEJS
-This project is a Basic CRUD Operations done using nodejs,mongodb.
+This Project is about CREATE,READ,UPDATE,DELETE(CRUD) Operations of users  Using Nodejs,MongoDB,PostgreSQL.
+Which is of Backend-web-Development.
